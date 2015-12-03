@@ -66,11 +66,15 @@ a:active {
   color: rgba(0, 0, 0, 0.7);
 }
 
-.position {
+.position:not(:last-child) {
   margin-bottom: 65px;
 }
 .position::after {
   content: "";
   display: table;
   clear: both;
+}
+
+[id="contact"] {
+  margin-bottom: 50px;
 }
