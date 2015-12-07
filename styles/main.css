@@ -38,6 +38,10 @@ a:active {
   [id="intro"] a {
     padding: 0px 8px;
   }
+  /* removes bullet from li that starts the second line */
+  [id="intro"] li:last-child::before {
+    display: none;
+  }
 }
 
 [id="intro"] a {
