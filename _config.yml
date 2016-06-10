@@ -1,0 +1,21 @@
+# Site settings
+title: Peter Ramsing | Developer, Life, Other Things
+email: hi@peterramsing.com
+baseurl:
+url: http://peter.coffee
+twitter_username: peterramsing
+github_username:  peterramsing
+timezone: America/Los_Angeles
+
+# Build settings
+markdown: kramdown
+
+highlighter: pygments
+
+# Pagination
+permalink: none
+paginate: 10
+paginate_path: "/page:num/"
+
+# Gem
+gems: [jekyll-paginate]

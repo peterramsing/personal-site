@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="top-area">
+      <div class="header-bar">
+        <h1>Peter Ramsing</h1>
+        <h2>Ramblings of a developer and husband.</h2>
+      </div>
+    </div>
+
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+
+        <div class="pagination">
+          {% if paginator.previous_page %}
+            <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+          {% endif %}
+          <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+          {% if paginator.next_page %}
+            <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+          {% else %}
+            <span class="next ">Next</span>
+          {% endif %}
+        </div>
+
+
+      </div>
+    </div>
+
+
+
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
