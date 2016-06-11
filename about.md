@@ -23,7 +23,7 @@ I’m a frontend web developer with a keen sense towards maintainable code. This
 * Website: [optitrack.com](http://optitrack.com)
 
 
-[Download Resume](http://peter.coffee/static/peter_ramsing_resume.pdf)
+[Download Resume](/static/peter_ramsing_resume.pdf)
 
 
 <br/>
