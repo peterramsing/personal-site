@@ -15,7 +15,7 @@ I’m a frontend web developer with a keen sense towards maintainable code. This
 ### LostGrid
 * Core Maintainer
 * Open Source PostCSS Grid Library
-* GitHub: [github.com/peterramsing/lost](http://github.com/peterramsing/lost)
+* GitHub: [peter.coffee/lost](http://peter.coffee/lost)
 
 ### NaturalPoint/OptiTrack/TrackIR
 * Frontend Website Technology Lead
