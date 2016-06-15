@@ -57,6 +57,11 @@
   @include media-query($on-laptop) {
     height: 400px;
   }
+
+  h2 {
+    line-height: 28px;
+    margin-top: 15px;
+  }
 }
 
 .header-bar{
