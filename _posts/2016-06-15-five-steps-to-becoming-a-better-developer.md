@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Five Steps To Becoming A&nbsp;Better&nbsp;Developer
+social_title: Five Steps To Becoming A Better Developer
 date: 2016-06-15 10:00:00
 description: There's no such thing as a unicorn
 social_description: Peter's take on five things that he's learned have helped him become a better developer.
