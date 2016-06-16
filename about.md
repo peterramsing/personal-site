@@ -2,6 +2,9 @@
 layout: about
 title: About Me
 permalink: /about/
+description: Just another developer...
+social_description: It's Peter, your fun loving, coffee drinking web developer.
+keywords: Web, Developer
 ---
 
 <img class="col one right" src="/img/2016_square_sm.jpg">
