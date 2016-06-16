@@ -3,6 +3,8 @@ layout: post
 title:  Five Steps To Becoming A&nbsp;Better&nbsp;Developer
 date: 2016-06-15 10:00:00
 description: There's no such thing as a unicorn
+social_description: Peter's take on five things that he's learned have helped him become a better developer.
+keywords: Web, Developer, Imposter Syndrome, Leadership
 audio: five-steps-to-becoming-a-better-developer
 ---
 
