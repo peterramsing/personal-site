@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About Me
+title: About
 permalink: /about/
 description: Just another developer...
 social_description: It's Peter, your fun loving, coffee drinking web developer.
