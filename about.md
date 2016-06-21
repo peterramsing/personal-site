@@ -7,9 +7,7 @@ social_description: It's Peter, your fun loving, coffee drinking web developer.
 keywords: Web, Developer
 ---
 
-<img class="col one right" src="/img/2016_square_sm.jpg">
-
-I’m a frontend web developer with a keen sense towards maintainable code. This passion for web got its start in coffee for me, actually. I wanted to make daily tasks at the coffee shop I worked at more efficient so I made my first web app. Since then, I’ve been hooked to making things on the web.
+I'm Peter Ramsing, a web developer who likes using code to solve complex problems.
 
 ---
 
