@@ -23,7 +23,7 @@ I'm Peter Ramsing, a web developer who likes using code to solve complex problem
 * Website: [optitrack.com](http://optitrack.com)
 
 
-[Download Resume](/static/peter_ramsing_resume.pdf)
+[Download Resume](/static/peter-ramsing-resume.pdf)
 
 
 <br/>
