@@ -11,8 +11,8 @@ social_image: /img/2016_square_sm.jpg
     {% for post in paginator.posts %}
       <li>
         <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-        <p class="post-meta">{{ post.date | date: '%B %-d, %Y' }}</p>
         <h4>{{ post.description }}</h4>
+        <p class="post-meta">{{ post.date | date: '%B %-d, %Y' }}</p>
         <p>
           {{ post.content }}
         </p>
