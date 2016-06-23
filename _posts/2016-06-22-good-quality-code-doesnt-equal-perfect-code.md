@@ -3,7 +3,7 @@ layout: post
 title:  Good Quality Code != Perfect Code
 permalink: good-quality-code-perfect-code
 social_title: Good Quality Code != Perfect Code
-date: 2016-06-20 10:00:00
+date: 2016-06-22 17:00:00
 description: Great code, unless shipped, doesn't do much.
 social_description: It's not just about writing delicious code. It's about writing code that's in production.
 keywords: Web, Developer, Quality
