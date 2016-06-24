@@ -13,6 +13,12 @@ social_image: /img/2016_square_sm.jpg
         <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
         <h4>{{ post.description }}</h4>
         <p class="post-meta">{{ post.date | date: '%B %-d, %Y' }}</p>
+        {% if post.audio %}
+        <audio controls preload="metadata">
+          <source src="../audio/{{ post.audio }}.mp3" type="audio/mpeg">
+          Your browser does not support the audio element.
+        </audio>
+        {% endif %}
         <p>
           {{ post.content }}
         </p>
