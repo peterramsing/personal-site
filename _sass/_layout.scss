@@ -182,9 +182,9 @@ table {
     }
   }
   h3 {
-    font-size: 30px;
+    font-size: 19px;
     @include media-query($on-laptop) {
-    font-size: 22px;
+    font-size: 20px;
     }
   }
   h4 {
@@ -192,6 +192,11 @@ table {
     @include media-query($on-laptop) {
     font-size: 18px;
     }
+  }
+  img {
+    margin-top: 10px;
+    max-width: 100%;
+    width: 300px;
   }
 }
 
