@@ -139,6 +139,11 @@ table {
   > li {
     margin-bottom: $vertical-spacing-unit;
   }
+  img {
+    max-width: 100%;
+    width: 300px;
+    margin-top: 10px;
+  }
 }
 .contacticon {
   font-size: 60px;
