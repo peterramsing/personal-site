@@ -21,7 +21,7 @@ So I don't actually think this is an epidemic. I just think it's funny. There ha
 ## How about some Q&A?
 
 ### But why?
-I know there are a lot of other things to do but this was fun. It took about as long as watching a movie and it took me back to the evenings in the summer when I'd build a new tree house just because I could.
+I know there are a lot of other things to do but this was fun. It took about as long as watching a movie and it took me back to the evenings in the summer when I'd build a new treehouse just because I could.
 
 ### So what is it anyway?
 Just a site. That's it.
