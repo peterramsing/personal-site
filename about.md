@@ -15,7 +15,7 @@ I'm Peter Ramsing, a web developer who likes using code to solve complex problem
 ### LostGrid
 * Core Maintainer
 * Open Source PostCSS Grid Library
-* GitHub: [peter.coffee/lost](http://peter.coffee/lost)
+* GitHub: [lostgrid.org/](http://lostgrid.org/)
 
 ### NaturalPoint/OptiTrack/TrackIR
 * Frontend Website Technology Lead
