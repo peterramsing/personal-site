@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  I Made A Site About AirDrop
-permalink: youmightwanttoturnoffairdrop
+permalink: you-might-want-to-turn-off-air-drop
 date: 2016-06-28 20:00:00
 description: For when you need to let someone know...
 keywords: AirDrop, iPhone, Security
