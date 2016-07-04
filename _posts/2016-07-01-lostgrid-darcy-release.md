@@ -34,7 +34,7 @@ Great question! To answer it we need to understand the importance of [semver](ht
 
 So, Darcy release will be here for a while. Darcy will probably be around for several major version numbers. When a new set of features come out and it starts to not feel like the Darcy release anymore then it'll change. But it's just for marketing. As the plugin progresses we'll be able to talk about it using these terms.
 
-This thought process was inspired by this [talk](https://youtu.be/tc2UgG5L7WM) on this from JSConf.
+This thought process was inspired by this [talk](https://youtu.be/tc2UgG5L7WM) on semver from JSConf.
 
 Oh, and "[Mr. Darcy](https://en.wikipedia.org/wiki/Mr._Darcy)" is a beloved character of mine from the author Jane Austen.
 
