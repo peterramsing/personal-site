@@ -9,6 +9,7 @@ social_description: It's easy to have assumptions hide in the facts. What facts 
 keywords: web development, development, project management, assumptions, legacy code
 audio: define-your-assumptions
 ---
+<a href="https://twitter.com/share" class="twitter-share-button" data-text="What assumptions are you treating as facts?" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 There are numerous moments when I have assumed something was fact when it was really just an assumption. Whether it was my own assumption or I was hearing an assumption of someone else it's not hard to see the trouble this could cause if we step back a moment.
 
