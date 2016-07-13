@@ -1,3 +1,17 @@
+@mixin image-update-temp-hack {
+  figure {
+    figcaption {
+      padding: 10px 0;
+      text-align: center;
+      font-weight: bold;
+      text-transform: uppercase;
+    }
+  }
+  .image--full-width {
+    width: 100%;
+  }
+}
+
 
 /**
  * Site header   **********************************************************
@@ -144,6 +158,7 @@ table {
     width: 300px;
     margin-top: 10px;
   }
+  @include image-update-temp-hack;
 }
 .contacticon {
   font-size: 60px;
@@ -198,6 +213,8 @@ table {
     font-size: 18px;
     }
   }
+  @include image-update-temp-hack;
+
   img {
     margin-top: 10px;
     max-width: 100%;
