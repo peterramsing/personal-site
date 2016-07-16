@@ -31,7 +31,7 @@ keywords: css, web development, html, design, branding, overscroll, background c
   }
 </style>
 
-Here's a little tip if you're working on a site who's header and footer are the same color.
+Here's a little tip if you're working on a site whose header and footer are the same color.
 
 *click on the gifs to play, click again to stop*
 
@@ -60,7 +60,7 @@ body {
 }
 {% endhighlight %}
 
-For me, I just sort of have forgotten about the `html` element and how it can be styled. It's not game changing but if it fits for your site it can make a designer's day.
+For me, I just sort of have forgotten about the `html` element and how it can be styled. It's not "game changing" but if it fits for your site it can make a designer's day.
 
 Here's a [gist](https://gist.github.com/peterramsing/d3ba8502730471691f73361f0490a185#file-overscroll-html-L59) with some example code.
 
