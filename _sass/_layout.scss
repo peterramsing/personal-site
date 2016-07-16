@@ -16,10 +16,12 @@
 /**
  * Site header   **********************************************************
  */
+html {
+  background: $grey-color-dark;
+}
+
 .site-header {
-  border-bottom: 1px solid $grey-color-light;
-  background-color: #fff;
-  opacity: 0.75;
+  background-color: $grey-color-dark;
   position:fixed;
   left: 0px;
   top: 0px;
@@ -33,19 +35,24 @@
   line-height: $nav-height;
   letter-spacing: -1px;
   margin-bottom: 0;
+
   &:hover {
     text-decoration: none;
-    color: $theme-color;
   }
 }
 .site-nav {
   float: right;
   line-height: $nav-height;
   .page-link{
+    color: white;
     line-height: $base-line-height;
     // Gaps between nav items, but not on the first one
     &:not(:first-child) {
       margin-left: 10px;
+    }
+
+    &:hover {
+      color: $theme-color;
     }
   }
 
