@@ -12,6 +12,18 @@
   }
 }
 
+@mixin clearfix {
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+
+.utl-clearfix {
+  @include clearfix;
+}
+
 
 /**
  * Site header   **********************************************************
