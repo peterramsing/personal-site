@@ -21,3 +21,4 @@ paginate_path: "/page:num/"
 gems:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-redirect-from
