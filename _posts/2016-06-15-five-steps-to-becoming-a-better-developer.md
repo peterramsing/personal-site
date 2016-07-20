@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - /fivesteps/
+
 layout: post
 title:  Five Steps To Becoming A&nbsp;Better&nbsp;Developer
 social_title: Five Steps To Becoming A Better Developer
