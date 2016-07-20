@@ -8,6 +8,8 @@ keywords: Web, Developer
 
 I'm Peter Ramsing, a web developer who likes using code to solve complex problems.
 
+Focusing on frontend development, I am experienced in working on legacy codebases and the role that code has in propelling, or hindering, business goals. As a maintainer of the largest grid framework for PostCSS, LostGrid, I also have had the privilege of working with and learning from amazing developers from all over the globe every single day.
+
 ---
 
 ## Current Projects
