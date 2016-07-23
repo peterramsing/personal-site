@@ -72,7 +72,9 @@ ul, ol, dl, figure,
   margin-bottom: $vertical-spacing-unit / 2;
 }
 
-p {
+p,
+ul:not(.post-list)
+ol {
   a {
     border-bottom: 1px solid currentColor;
   }
