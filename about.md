@@ -1,4 +1,5 @@
 ---
+navigation: true
 layout: about
 title: About
 permalink: /about/
