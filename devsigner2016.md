@@ -12,6 +12,8 @@ social_image: /img/devsigner-2016.jpg
 
 ## [Original Post: Five Steps to Becoming a Better Developer](http://peter.coffee/five-steps-to-becoming-a-better-developer.html)
 
+### [Link to talk](https://www.devsignercon.com/conference/sessions/five-steps-becoming-better-devsigner)
+
 ## Links/Projects Mentioned
 * [Where I work](http://www.naturalpoint.com/)
 * [Open Source Project LostGrid](https://github.com/peterramsing/lost)
