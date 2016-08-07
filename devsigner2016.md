@@ -24,6 +24,8 @@ social_image: /img/devsigner-2016.jpg
   - You could talk at one of these. 😉
 * Robert Krulwich's speech on storytelling: [Tell Me A Story](http://www.radiolab.org/story/91852-tell-me-a-story/)
   * *I mistakenly said this was the commencement address at Stanford but I [mixed that speech](https://www.youtube.com/watch?v=MeW4XyJBevA) with the speech he gave at Caltech. Sorry for the mixup.*
+* [RadioLab Podcast](http://www.radiolab.org/)
+  * [This American Life](http://www.thisamericanlife.org/)
 
 ## Great thoughts from the discussion:
 * Mentors are an amazing way to learn, get feedback and improve in all areas of your life. Seek them out.
