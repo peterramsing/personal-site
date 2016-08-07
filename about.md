@@ -43,3 +43,12 @@ Focusing on frontend development, I am experienced in working on legacy codebase
 	<a href="http://instagram.com/peterramsing"><i class="fa fa-instagram"></i></a>
 	<a href="https://twitter.com/peterramsing"><i class="fa fa-twitter-square"></i></a>
 </span>
+
+
+<hr/>
+<br/>
+<div id="amazon-affiliate">
+  <p>
+    <em>Peter Ramsing is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to [amazon.com](https://www.amazon.com/).<em>
+  </p>
+</div>
