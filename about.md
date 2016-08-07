@@ -31,7 +31,7 @@ Focusing on frontend development, I am experienced in working on legacy codebase
 ### Resources
 * [Some Favorite Atom Packages](https://gist.github.com/peterramsing/37fb6c981f89b59ac840c9a675b06fb0)
 * [2016 Reading List](https://github.com/peterramsing/planning-goals/blob/master/reading/2016-articles.md)
-
+* [Reading List]({{ site.baseurl }}/reading-list)
 
 <br/>
 <hr/>
