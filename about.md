@@ -28,7 +28,11 @@ Focusing on frontend development, I am experienced in working on legacy codebase
 
 [Download Resume](/static/peter-ramsing-resume.pdf)
 
-### Resources
+## As Seen
+* At Devsigner 2016 talk on [Five Steps to Becoming a Better Devsigner](/devsigner2016)
+* Various technical and general talks at the [Benton County Career Convention](http://www.bchscc.org/)
+
+## Resources
 * [Some Favorite Atom Packages](https://gist.github.com/peterramsing/37fb6c981f89b59ac840c9a675b06fb0)
 * [2016 Reading List](https://github.com/peterramsing/planning-goals/blob/master/reading/2016-articles.md)
 * [Reading List]({{ site.baseurl }}/reading-list)
