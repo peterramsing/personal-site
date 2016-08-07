@@ -31,6 +31,8 @@ Within each section I've put things in a "sort of" order of what I feel are "if 
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=peterramsin07-20&marketplace=amazon&region=US&placement=0062120999&asins=0062120999&linkId=a01006233516458cb3d65cc73cf3a3a3&show_border=true&link_opens_in_new_window=true"></iframe>
 
+## Developer Specific:
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=peterramsin07-20&marketplace=amazon&region=US&placement=1449372635&asins=1449372635&linkId=70ceca8d124628b4b32af1513094fd9d&show_border=true&link_opens_in_new_window=true"></iframe>
 
 ## For Life
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=peterramsin07-20&marketplace=amazon&region=US&placement=0316253030&asins=0316253030&linkId=e6c2ffc3ee49a6dfe571413b3e8fed2d&show_border=true&link_opens_in_new_window=true"></iframe>
