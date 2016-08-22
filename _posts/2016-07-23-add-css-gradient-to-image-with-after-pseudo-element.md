@@ -43,5 +43,5 @@ I created a [CodePen](http://codepen.io/peterramsing/pen/jAxVBB/) but thought I'
 
 
 <div class="footnotes">
-  <p class="footnote" id="coffee-break">* I recently joined the [Portland WeWork](https://www.wework.com/locations/portland/custom-house) and their coffee is amazing...and made for me! Love that.</p>
+  <p class="footnote" id="coffee-break">* I recently joined the <a href="https://www.wework.com/locations/portland/custom-house" rel="nofollow">Portland WeWork</a> and they have ready-made coffee. #awesome</p>
 </div>
