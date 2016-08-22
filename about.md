@@ -53,6 +53,6 @@ Focusing on frontend development, I am experienced in working on legacy codebase
 <br/>
 <div id="amazon-affiliate">
   <p>
-    <em>Peter Ramsing is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to [amazon.com](https://www.amazon.com/).<em>
+    <em>Peter Ramsing is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to <a href="https://www.amazon.com/">amazon.com</a>.<em>
   </p>
 </div>
