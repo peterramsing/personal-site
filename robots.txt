@@ -1,2 +1,3 @@
 Sitemap: http://peter.coffee/sitemap.xml
+user-agent: *
 Disallow: /drop-in-marketing-site/
