@@ -10,7 +10,7 @@ social_image: img/lostgrid-darcy.png
 social_description: LostGrid's latest version of Darcy 7.1.0 comes with a new utility feature and refactored core using Airbnb's ESLint configuration
 
 ---
-<a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ page.url | prepend: site.url }}" data-text="LostGrid releases the latest version targeting bug fixes and a new feature for lost-row." data-via="LostGrid" data-related="peterramsing">Tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ page.url | prepend: site.url }}" data-text="{{ page.description }}" data-via="LostGrid" data-related="peterramsing">Tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
 
 <h2 id="what-changed"><a href="#what-changed">What changed?</a></h2>
