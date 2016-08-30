@@ -38,7 +38,7 @@ This thought process was inspired by this [talk](https://youtu.be/tc2UgG5L7WM) o
 
 Oh, and "[Mr. Darcy](https://en.wikipedia.org/wiki/Mr._Darcy)" is a beloved character of mine from the author Jane Austen.
 
-## Something's broken!
+## Something's broken?
 If you're experiencing any issue with the Darcy Release please feel free to reach out via [@LostGrid](https://twitter.com/lostgrid) on Twitter, [Gitter](https://gitter.im/peterramsing/lost) or [submit and issue](https://github.com/peterramsing/lost/issues/new).
 
 **Thanks to [everyone](https://github.com/peterramsing/lost/graphs/contributors) that's made this project possible!**
