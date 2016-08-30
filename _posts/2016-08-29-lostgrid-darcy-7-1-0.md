@@ -17,7 +17,7 @@ social_description: LostGrid's latest version of Darcy 7.1.0 comes with a new ut
 [Changelog](https://github.com/peterramsing/lost/releases/tag/v7.1.0)
 
 
-* [#322](https://github.com/peterramsing/lost/pull/322) [FEATURE ENHANCEMENT] There is a new ability to add an `rgb` color value to `lost-utility: edit;` to customize your editing color. `lost-utility: edit rgb(60, 0, );`
+* [#322](https://github.com/peterramsing/lost/pull/322) [FEATURE ENHANCEMENT] There is a new ability to add an `rgb` color value to `lost-utility: edit;` to customize your editing color. `lost-utility: edit rgb(60, 0, 0);`
 * [#324](https://github.com/peterramsing/lost/pull/324) [REFACTOR] LostGrid's core is now written to follow the [airbnb](https://github.com/airbnb/javascript) javascript styleguide with ESLint linting along the way.
 
 I've missed diving into code like I used to. This is a minor release adding a little feature enhancement for `lost-utility`. There are some cases where you might want to have different colors used in the `edit` mode of `lost-utility`. Now you can add in an `rgb` value. When I went to bed after hitting "release" last night I realized that I should probably also add in some color variables as well like "blue" and "red" etc. Because I'm converting it to `rgba` I don't think it would be as simple as accepting valid `css` colors but that's certainly something that could be in the cards.
