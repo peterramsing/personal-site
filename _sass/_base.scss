@@ -11,17 +11,10 @@ dl, dd, ol, ul, figure {
 
 
 /** Variables **********************************************/
-$base-font-family:              Helvetica, sans-serif;
-$base-line-height:              1.5em;
 $horizontal-spacing-unit:       50px;
 $vertical-spacing-unit:         40px;
 $nav-height:                    56px;
 
-/* portfolio tinkering */
-$img_spacing: 5px;
-$img_height: 275px;
-$caption_font_size: 12px;
-$caption_color: #aaa;
 
 /* COLORS  */
 $red:  #FF3636;
@@ -46,13 +39,9 @@ $theme-color:   $blue;
  * Basic styling
  */
 body {
-  font-family: $base-font-family;
-  font-size: $base-font-size;
-  line-height: $base-line-height;
-  font-weight: 100;
   color: $text-color;
+  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
   background-color: $background-color;
-  -webkit-text-size-adjust: 100%;
 }
 
 iframe {
@@ -118,36 +107,25 @@ ul, ol {
 li {
   > ul,
   > ol {
-   margin-bottom: 0;
+   margin-bottom: $spacing-unit;
   }
-}
-
-
-
-/**
- * Headings
- */
-h1, h2, h3, h4, h5, h6 {
-  font-weight: 100;
 }
 
 
 /**
  * Links
  */
-a {
-  color: $text-color;
-  text-decoration: none;
-  /*
-  &:visited {
-      color: darken($brand-color, 15%);
-  }
-  */
-  &:hover {
-    color: $theme-color;
-    text-decoration: none;
-  }
-}
+ a:not([data-link='no-style']) {
+   transition: border-bottom $ui-transition-speed ease-in-out;
+   border-bottom: 1px solid currentColor;
+   text-decoration: none;
+   color: inherit;
+
+   &:hover {
+     transition: border-bottom $ui-transition-speed ease-in-out;
+     border-bottom: 1px solid $blue;
+   }
+ }
 
 article a {
   color: $theme-color;
@@ -157,6 +135,60 @@ article a {
     text-decoration: none;
   }
 }
+
+
+/**
+* Typography
+*/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $heading-font-family;
+  font-weight: $heading-font-weight;
+}
+
+h1 {
+  line-height: 48px;
+  font-size: 30px;
+}
+
+h2 {
+  line-height: 36px;
+  font-size: 25px;
+}
+
+h3 {
+  line-height: 24px;
+  font-size: 21px;
+}
+
+h4 {
+  line-height: 30px;
+  font-size: 17px;
+}
+
+
+strong {
+  line-height: 24px;
+  font-size: 15px;
+  font-weight: 700;
+}
+
+p {
+  line-height: 24px;
+  font-size: 15px;
+}
+
+label,
+button,
+small {
+  line-height: 22px;
+  font-size: 13px;
+}
+
 
 
 
