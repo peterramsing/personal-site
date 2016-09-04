@@ -44,6 +44,7 @@ Focusing on frontend development, I am experienced in working on legacy codebase
 
 ## Upcoming Talks
 * [Business Web Practices Speaker Series](https://bruceelgort.com/fall-2016-business-web-practices-speaker-series/) - October 5th
+* Startup Tacoma - November 19th
 
 ## Resources
 * [Some Favorite Atom Packages](https://gist.github.com/peterramsing/37fb6c981f89b59ac840c9a675b06fb0)
