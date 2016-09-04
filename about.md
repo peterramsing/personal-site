@@ -40,6 +40,9 @@ Focusing on frontend development, I am experienced in working on legacy codebase
 * At Devsigner 2016 talk on [Five Steps to Becoming a Better Devsigner](/devsigner2016)
 * Various technical and general talks at the [Benton County Career Convention](http://www.bchscc.org/)
 
+## Upcoming Talks
+* [Business Web Practices Speaker Series](https://bruceelgort.com/fall-2016-business-web-practices-speaker-series/) - October 5th
+
 ## Resources
 * [Some Favorite Atom Packages](https://gist.github.com/peterramsing/37fb6c981f89b59ac840c9a675b06fb0)
 * [2016 Reading List](https://github.com/peterramsing/planning-goals/blob/master/reading/2016-articles.md)
