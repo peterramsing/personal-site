@@ -18,12 +18,13 @@ Focusing on frontend development, I am experienced in working on legacy codebase
 ### LostGrid
 * Core Maintainer
 * Open Source PostCSS Grid Library
-* GitHub: [lostgrid.org/](http://lostgrid.org/)
+* GitHub: [lostgrid.org](http://lostgrid.org/)
 
 ### NaturalPoint/OptiTrack/TrackIR
 * Frontend Website Technology Lead
 * Motion Capture Software and Hardware
-* Website: [optitrack.com](http://optitrack.com)
+* Website: [optitrack.com](http://optitrack.com/)
+
 
 
 [Download Resume](/static/peter-ramsing-resume.pdf)
