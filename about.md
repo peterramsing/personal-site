@@ -27,6 +27,14 @@ Focusing on frontend development, I am experienced in working on legacy codebase
 
 
 [Download Resume](/static/peter-ramsing-resume.pdf)
+## Past Projects
+* [SplitTip](http://splittip.com/)
+  * A web app that allowed us Starbucks partners to split our pooled tips faster and with greater accuracy. Instead of taking an hour it only took fifteen minutes. #efficiencywin
+  * PHP, MySQL
+* [Corvallis Indoor Park](http://corvallisindoorpark.org)
+  * This was so much fun! My first large-scale project where I needed create an entire web app for a group of parents to be able to organize, sign up, schedule, and manage their group.
+  * PHP, MySQL
+
 
 ## As Seen
 * At Devsigner 2016 talk on [Five Steps to Becoming a Better Devsigner](/devsigner2016)
