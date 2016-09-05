@@ -32,4 +32,4 @@ No joke, five minutes later that several month and costly blocker was broken. Th
 2. Watch for assumptions of others.
   * If you hear "that should be hard and expensive" without anything to back it up. Ask a follow-up question. "Are there any assumptions here that we might be considering as fact here?"
   * Don't assume just because that's what everyone else says it is fact. This is a tough balance because institutional knowledge is extremely powerful but be wary of the institutional knowledge that's vague.
-  * Always be respectful of others (and this is key). Even if their facts are assumptions, often there is good reason they hold them as fact. Don't just "assume" that their foolish for thinking something is fact when in reality it is an assumption.
+  * Always be respectful of others (and this is key). Even if their facts are assumptions, often there is good reason they hold them as fact. Don't just "assume" that they're foolish for thinking something is fact when in reality it is an assumption.
