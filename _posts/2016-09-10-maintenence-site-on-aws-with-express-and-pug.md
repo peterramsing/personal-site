@@ -14,7 +14,7 @@ If you've ever had to create a maintenance page for your website when you need t
 
 My first pass was to use a virtual host but it was a bit messy and caused for a lot of very WET coding. It also didn't have a good catch-all method. I decided on a very simple Express server paired with Pug (formerly Jade) and then went with AWS for the cloud service (I'll discuss AWS in a future post).
 
-Here's an example repository to see this in action: https://github.com/NaturalPoint/Maintenance-Site
+Here's an example repository to see this in action: [github.com/NaturalPoint/Maintenance-Site](https://github.com/NaturalPoint/Maintenance-Site)
 
 ## Here's what I did:
 
