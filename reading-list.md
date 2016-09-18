@@ -3,8 +3,8 @@ layout: post
 title: Peter's Reading List
 permalink: reading-list
 social_title: Peter's Reading list
-description: From the "must read" to "enjoy this one"...
-social_description: From the "must read" to "enjoy this" you'll find the list here starting with Multipliers.
+description: From the must read to enjoy this one...
+social_description: From the must read to enjoy this you'll find the list here starting with Multipliers.
 keywords: Peter Ramsing, Reading list
 ---
 
