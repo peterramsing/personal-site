@@ -10,6 +10,8 @@ keywords: Peter Ramsing, Reading list
 
 Within each section I've put things in a "sort of" order of what I feel are "if you can only read a few...start with the left then work right."
 
+##### If you don't see any books, turn off ad-blocking. Linking to Amazon is a super simple way to link to these, getting their images, etc. 👍🏻
+
 ## Must Reads:
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=peterramsin07-20&marketplace=amazon&region=US&placement=0061964395&asins=0061964395&linkId=88489437b39eafa62610af3da4aae6fc&show_border=true&link_opens_in_new_window=true"></iframe>
 
