@@ -10,7 +10,7 @@ keywords:
 social_image:
 ---
 
-# Peter Ramsing, the Paid Version
+# Peter Ramsing, the Paid&nbsp;Version
 
 ## What I do:
 I build web sites and applications for small to medium size businesses and startups working with teams wherever they are. Whether it's inception or it's a legacy codebase I identify efficient solutions to complex business problems and deliver value quickly back to the organization.
