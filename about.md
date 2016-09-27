@@ -7,9 +7,11 @@ social_description: It's Peter, your fun loving, coffee drinking web developer.
 keywords: Web, Developer
 ---
 
-I'm Peter Ramsing, a web developer who likes using code to solve complex problems.
+I’m a web developer with 3 years experience successfully delivering results for small to medium sized companies. Skilled at developing complete web applications from scratch and integrating small apps with larger legacy systems, I deliver quality and maintainable code quickly and consistently.
 
-Focusing on frontend development, I am experienced in working on legacy codebases and the role that code has in propelling, or hindering, business goals. As a maintainer of the largest grid framework for PostCSS, LostGrid, I also have had the privilege of working with and learning from amazing developers from all over the globe every single day.
+I have effectively taken large legacy table based sites and migrated them to responsive design using modern tooling while working with product owners to stay under-budget and on-time working with extremely tight deadlines.
+
+As a maintainer of the largest grid framework for PostCSS, LostGrid, I also have had the privilege of working with and learning from amazing developers from all over the globe every single day. I am a strong team player and am experienced in-office and remote.
 
 [**Download Resume**](/static/peter-ramsing-resume.pdf)
 
@@ -17,23 +19,38 @@ Focusing on frontend development, I am experienced in working on legacy codebase
 
 ## Current Projects
 
+### Contract Work
+* Recent Projects:
+  * <a href="https://fidogroupe.github.io/drop-in-marketing-site/" rel="nofollow" target="_blank">(Pre-release) Drop In Site</a>
+  * <a href="http://lostgrid.org/" rel="nofollow" target="_blank">LostGrid Site</a>
+
 ### LostGrid
 * Core Maintainer
 * Open Source PostCSS Grid Library
-* GitHub: [lostgrid.org](http://lostgrid.org/)
+* GitHub: [github.com/peterramsing/lost](https://github.com/peterramsing/lost)
 
-### NaturalPoint/OptiTrack/TrackIR
-* Frontend Website Technology Lead
-* Motion Capture Software and Hardware
-* Website: [optitrack.com](http://optitrack.com/)
-
-
+---
 
 ## Past Projects
-* [SplitTip](http://splittip.com/)
+
+### <a href="http://www.naturalpoint.com" rel="nofollow" target="_blank">NaturalPoint/OptiTrack/TrackIR</a>
+* Frontend Website Technology Lead
+* Motion Capture Software and Hardware
+* Website: <a href="http://www.optitrack.com/" rel="nofollow" target="_blank">optitrack.com</a>
+  * <a href="http://www.optitrack.com/products/marker-configurator/?12=1&23=536&26=1&29=495&43=m4&62=475&91=1" rel="nofollow" target="_blank">Marker Configurator</a>
+  * <a href="http://www.optitrack.com/applications/" rel="nofollow" target="_blank">Application Pages Project</a>
+  * <a href="http://www.naturalpoint.com/trackir/" rel="nofollow" target="_blank">TrackIR Site Rebuild</a>
+
+### [VisualPeople](https://www.visualpeople.com/)
+  * Frontend and Backend developer for sites and applications
+  * Contract and Small Business development
+  * Website: [visualpeople.com](https://www.visualpeople.com/)
+
+### [SplitTip](http://splittip.com/)
   * A web app that allowed us Starbucks partners to split our pooled tips faster and with greater accuracy. Instead of taking an hour it only took fifteen minutes. #efficiencywin
   * PHP, MySQL
-* [Corvallis Indoor Park](http://corvallisindoorpark.org)
+  
+### [Corvallis Indoor Park](https://corvallisindoorpark.org)
   * This was so much fun! My first large-scale project where I needed create an entire web app for a group of parents to be able to organize, sign up, schedule, and manage their group.
   * PHP, MySQL
 
