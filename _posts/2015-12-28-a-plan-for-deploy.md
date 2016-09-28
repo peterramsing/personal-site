@@ -25,7 +25,7 @@ Here's an abbreviated version of what my decision tree looked like:
     * *if yes*
       * proceed
 * Deploy new Puppet config to production server
-  * Test if new site is visible on [www.naturalpoint.com/trackir/](www.naturalpoint.com/trackir/)
+  * Test if new site is visible on [www.naturalpoint.com/trackir/](http://www.naturalpoint.com/trackir/)
     * *if not*
       * Is the site up at at all?
         * *if it's still on old site*
