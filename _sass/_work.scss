@@ -1,0 +1,21 @@
+[id='my-work'] {
+  .work {
+    img {
+      width: 100%;
+    }
+  }
+
+  .work__skills {
+    span {
+      padding: 5px 10px;
+      background: $blue;
+      color: white;
+    }
+  }
+
+  .work__skills--image-half {
+    @media (min-width: 800px) {
+      width: 50%;
+    }
+  }
+}
