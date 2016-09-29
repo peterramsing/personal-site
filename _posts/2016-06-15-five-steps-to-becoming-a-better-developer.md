@@ -8,14 +8,19 @@ social_title: Five Steps To Becoming A Better Developer
 date: 2016-06-15 10:00:00
 description: There's no such thing as a unicorn
 social_description: Peter's take on five things that he's learned have helped him become a better developer.
+social_image: img/posts/five-steps.jpg
 keywords: Web, Developer, Imposter Syndrome, Leadership
 audio: five-steps-to-becoming-a-better-developer
 ---
-### This post was turned into a [talk]({{ site.baseurl }}/devsigner2016). 
+### This post was turned into a [talk]({{ site.baseurl }}/devsigner2016).
 
 ## 1. Realize there are no silver bullets or unicorns.
 
   Similar to [imposter syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome), it is important to know that your unique talents are to be valued. We all have different skills from various backgrounds. This is something to be celebrated and embraced by all developers. It's important to realize that your background allows you to have a perspective that others cannot. Whether you've just written your first Hello World, or you are a seasoned dev, you have a unique take and that is worth celebrating.
+
+<p style="text-align: center;">
+  <img src="{{ site.baseurl }}/img/posts/five-steps.jpg" alt="">
+</p>
 
 ## 2. Track your successes (and your failures)
 
