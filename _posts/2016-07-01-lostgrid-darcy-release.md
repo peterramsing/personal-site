@@ -6,7 +6,7 @@ date: 2016-07-01 23:50:00
 description: LostGrid releases new version called Darcy
 keywords: PostCSS, CSS, frontend, front-end, lostgrid, lost, grid, software-release
 social_title: LostGrid, the new Darcy Release
-social_image: img/lostgrid-darcy.png
+social_image: /img/lostgrid-darcy.png
 social_description: The latest version of LostGrid, the Darcy Release, comes with a new lost-row feature and several bug fixes.
 category: development
 

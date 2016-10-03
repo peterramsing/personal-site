@@ -6,7 +6,7 @@ social_title: Peter Ramsing, the Paid Version
 description: Peter Ramsing is for hire. From full site development to helping break down barriers in legacy code, I'm here to help.
 social_description: Peter Ramsing is for hire. From full site development to helping break down barriers in legacy code, I'm here to help.
 keywords: frontend development, peter ramsing, work, web development, web design
-social_image: img/work/drop-in.jpg
+social_image: /img/work/drop-in.jpg
 ---
 
 # Peter Ramsing, the&nbsp;Paid&nbsp;Version

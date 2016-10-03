@@ -9,7 +9,7 @@ social_description: It's not just about writing delicious code. It's about writi
 keywords: Web, Developer, Quality
 audio: good-quality-code-doesnt-equal-perfect-code
 category: development
-social_image: img/posts/good-quality-perfect-code.jpg
+social_image: /img/posts/good-quality-perfect-code.jpg
 
 ---
 

@@ -6,7 +6,7 @@ date: 2016-08-29 14:50:00
 description: New LostGrid Darcy release with feature enhancements and a major under-the-hood refactor.
 keywords: PostCSS, CSS, frontend, front-end, lostgrid, lost, grid, software-release
 social_title: New LostGrid version 7.1.0
-social_image: img/lostgrid-darcy.png
+social_image: /img/lostgrid-darcy.png
 social_description: LostGrid's latest version of Darcy 7.1.0 comes with a new utility feature and refactored core using Airbnb's ESLint configuration
 category: development
 excerpt_separator: <!--more-->

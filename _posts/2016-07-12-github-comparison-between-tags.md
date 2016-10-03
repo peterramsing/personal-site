@@ -6,7 +6,7 @@ social_title: Comparison Between Tags on GitHub, Do you need to compare between 
 date: 2016-07-12 09:00:00
 description: Comparing between two versions using the GitHub compare tool
 social_description: Need to compare different versions on GitHub?
-social_image: img/github-compare-page.png
+social_image: /img/github-compare-page.png
 keywords: github, git, diff, compare, changelog, normalize, peter ramsing, tips
 audio: comparison-between-tags-on-github
 category: development
