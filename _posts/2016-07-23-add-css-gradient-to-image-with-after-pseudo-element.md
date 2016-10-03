@@ -9,11 +9,15 @@ social_description: How to add a linear-gradient to images using the ::after pse
 keywords: css, pseudo-elements, after, html, frontend, gradients
 social_image: /img/css-after-pseudo-element-gradient-example.jpg
 category: development
+excerpt_separator: <!--more-->
+
 ---
 
 If you're wanting to add a gradient to an image I have found a lot of posts that explain how to do it with [background images](https://css-tricks.com/tinted-images-multiple-backgrounds/). This has been the go-to strategy of mine for a while but I thought it didn't feel *quite* right for every case.
 
 ![Gradient on image example]({{ site.baseurl }}/img/css-after-pseudo-element-gradient-example.jpg "Gradient on image example")
+
+<!--more-->
 
 In order to help keep a codebase maintainable the background image solution didn't seem like the best solution. Whenever possible I want to keep my content in the `html` and the styles in the `css`. I don't feel like that is what the `background-image` property is for. If an image is a part of the content and not the background, separation of concerns says to put the image in the `html`.
 

@@ -8,6 +8,7 @@ description: A quick web tip on overscroll background color.
 social_description: A quick web tip on overscroll background color.
 keywords: css, web development, html, design, branding, overscroll, background color
 category: development
+excerpt_separator: <!--more-->
 ---
 
 <style>
@@ -31,6 +32,8 @@ category: development
 </style>
 
 Here's a little tip if you're working on a site whose header and footer are the same color.
+
+<!--more-->
 
 *click on the gifs to play, click again to stop*
 

@@ -12,13 +12,15 @@ social_image: img/posts/five-steps.jpg
 keywords: Web, Developer, Imposter Syndrome, Leadership
 audio: five-steps-to-becoming-a-better-developer
 category: development
-
+excerpt_separator: <!--more-->
 ---
 ### This post was turned into a [talk]({{ site.baseurl }}/devsigner2016).
 
 ## 1. Realize there are no silver bullets or unicorns.
 
   Similar to [imposter syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome), it is important to know that your unique talents are to be valued. We all have different skills from various backgrounds. This is something to be celebrated and embraced by all developers. It's important to realize that your background allows you to have a perspective that others cannot. Whether you've just written your first Hello World, or you are a seasoned dev, you have a unique take and that is worth celebrating.
+
+<!--more-->
 
 <p style="text-align: center;">
   <img src="{{ site.baseurl }}/img/posts/five-steps.jpg" alt="">

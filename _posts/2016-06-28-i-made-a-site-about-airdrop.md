@@ -9,13 +9,15 @@ social_title: I Made A Site About AirDrop
 social_image: img/ymwttoad-logo.png
 social_description: There comes a time when you see someone who has their AirDrop permissions too open. Now you have something to send them!
 category: development
-
+excerpt_separator: <!--more-->
 ---
 
 [youmightwanttoturnoffairdrop.com](http://youmightwanttoturnoffairdrop.com)
 
 ## It's a joke
 So I don't actually think this is an epidemic. I just think it's funny. There have been many times when I will see people with AirDrop on and feel like sending them something. Now...I get to!
+
+<!--more-->
 
 ![You Should Probably Turn Off AirDrop Logo]({{ site.baseurl }}/img/ymwttoad-logo.png "I just made this for fun.")
 

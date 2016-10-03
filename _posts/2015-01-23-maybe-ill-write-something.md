@@ -5,11 +5,14 @@ date: 2015-01-23 21:01:00
 description: ...just maybe...
 audio: maybe-ill-write-something
 category: personal
+excerpt_separator: <!--more-->
 ---
 
 ### So, here's the truth...
 
 I've written lots of things, several of them were actually pretty good. Years ago I used to write a blog. Years ago I used to care how many people read it. Years ago I used to wonder if people liked me. I've changed.
+
+<!--more-->
 
 ---
 

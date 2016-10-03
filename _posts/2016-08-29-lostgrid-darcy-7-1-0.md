@@ -9,6 +9,7 @@ social_title: New LostGrid version 7.1.0
 social_image: img/lostgrid-darcy.png
 social_description: LostGrid's latest version of Darcy 7.1.0 comes with a new utility feature and refactored core using Airbnb's ESLint configuration
 category: development
+excerpt_separator: <!--more-->
 ---
 
 <h2 id="what-changed"><a href="#what-changed">What changed?</a></h2>
@@ -19,6 +20,8 @@ category: development
 * [#324](https://github.com/peterramsing/lost/pull/324) [REFACTOR] LostGrid's core is now written to follow the [airbnb](https://github.com/airbnb/javascript) javascript styleguide with ESLint linting along the way.
 
 I've missed diving into code like I used to. This is a minor release adding a little feature enhancement for `lost-utility`. There are some cases where you might want to have different colors used in the `edit` mode of `lost-utility`. Now you can add in an `rgb` value. When I went to bed after hitting "release" last night I realized that I should probably also add in some color variables as well like "blue" and "red" etc. Because I'm converting it to `rgba` I don't think it would be as simple as accepting valid `css` colors but that's certainly something that could be in the cards.
+
+<!--more-->
 
 I've been wanting to get my hands deep into the core of LostGrid for some time. The refactor to match airbnb's javascript style guide was a great excuse. I'm really happy with how it all turned out and I feel even more confident in the codebase. A goal since taking over LostGrid was to focus on stability. I ran into some node issues having ESLint be a part of the build process and I didn't want to delay this release any longer so I shipped without it: but that will be coming soon.
 
