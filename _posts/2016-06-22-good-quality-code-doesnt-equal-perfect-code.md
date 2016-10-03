@@ -9,10 +9,15 @@ social_description: It's not just about writing delicious code. It's about writi
 keywords: Web, Developer, Quality
 audio: good-quality-code-doesnt-equal-perfect-code
 category: development
+social_image: img/posts/good-quality-perfect-code.jpg
 
 ---
 
 We've all been there. You've written a pretty solid feature and you're just about done but you keep finding little areas to improve. Those little things that you keep committing such as "cleans up x" or "refactors x to make simpler". As your deadline approaches your stress level grows, the product owner is getting nervous, and the late nights are inevitable.
+
+<p style="text-align: center;">
+  <img src="{{ site.baseurl }}/img/posts/good-quality-perfect-code.jpg" alt="">
+</p>
 
 ## Developers Versus Product Owner Priorities
 
