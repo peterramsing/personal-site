@@ -12,8 +12,6 @@ audio: comparison-between-tags-on-github
 category: development
 ---
 
-<a href="https://twitter.com/share" class="twitter-share-button" data-text="Need to compare different versions on GitHub?" data-url="http://peter.coffee/github-comparison-between-tags" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 Often I'll want to see the difference between two releases on GitHub. Typically there is a CHANGELOG that will tell me a between versions but what if I want to see a diff between two versions that aren't sequential? GitHub offers a way to do this.
 
 I've been adding a link to the actual code diffs between versions in my [LostGrid Changelist](https://github.com/peterramsing/lost/releases/tag/v7.0.3) for each release and I haven't seen many other examples of this.

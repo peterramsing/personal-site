@@ -10,8 +10,6 @@ keywords: css, web development, html, design, branding, overscroll, background c
 category: development
 ---
 
-<a href="https://twitter.com/share" class="twitter-share-button" data-text="A quick tip on overscroll color" data-url="http://peter.coffee/htmls-background-color" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <style>
   button:focus {
     outline: none;

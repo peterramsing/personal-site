@@ -11,8 +11,6 @@ social_image: /img/css-after-pseudo-element-gradient-example.jpg
 category: development
 ---
 
-<a href="https://twitter.com/share" class="twitter-share-button" data-text="How to add gradients to images with CSS ::after" data-url="http://peter.coffee/how-to-use-css-pseudo-elements-to-add-a-gradient-to-images" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 If you're wanting to add a gradient to an image I have found a lot of posts that explain how to do it with [background images](https://css-tricks.com/tinted-images-multiple-backgrounds/). This has been the go-to strategy of mine for a while but I thought it didn't feel *quite* right for every case.
 
 ![Gradient on image example]({{ site.baseurl }}/img/css-after-pseudo-element-gradient-example.jpg "Gradient on image example")

@@ -11,7 +11,6 @@ social_description: The latest version of LostGrid, the Darcy Release, comes wit
 category: development
 
 ---
-<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://peter.coffee/lost-grid-darcy-release" data-text="LostGrid releases the latest version targeting bug fixes and a new feature for lost-row." data-via="LostGrid" data-related="peterramsing">Tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
 ## LostGrid, the Darcy Release
 Tonight I released the [latest version](https://github.com/peterramsing/lost/releases/tag/v7.0.1) of the [open source project](https://github.com/peterramsing/lost), LostGrid I maintain. The main focus of this release was to fix some bugs that caused some breaking changes, start a new version naming strategy, add a feature for `lost-row` and to also ensure that there was movement on the project.
