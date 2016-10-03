@@ -3,6 +3,7 @@ layout: post
 title:  That Time I Got Lost
 date: 2016-02-04 21:01:00
 description: My journey from contributor to maintainer.
+category: development
 ---
 
 Last week I got Lost. Oh-gosh–not that type of lost! I have [Apple Maps](http://theamazingios6maps.tumblr.com) for that. I did get the PostCSS grid called [LostGrid](https://github.com/peterramsing/lost) [transferred](https://github.com/peterramsing/lost/issues/203) to my GitHub user.

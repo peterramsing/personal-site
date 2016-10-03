@@ -9,6 +9,7 @@ social_description: Need to compare different versions on GitHub?
 social_image: img/github-compare-page.png
 keywords: github, git, diff, compare, changelog, normalize, peter ramsing, tips
 audio: comparison-between-tags-on-github
+category: development
 ---
 
 <a href="https://twitter.com/share" class="twitter-share-button" data-text="Need to compare different versions on GitHub?" data-url="http://peter.coffee/github-comparison-between-tags" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -8,6 +8,7 @@ keywords: PostCSS, CSS, frontend, front-end, lostgrid, lost, grid, software-rele
 social_title: LostGrid, the new Darcy Release
 social_image: img/lostgrid-darcy.png
 social_description: The latest version of LostGrid, the Darcy Release, comes with a new lost-row feature and several bug fixes.
+category: development
 
 ---
 <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://peter.coffee/lost-grid-darcy-release" data-text="LostGrid releases the latest version targeting bug fixes and a new feature for lost-row." data-via="LostGrid" data-related="peterramsing">Tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>

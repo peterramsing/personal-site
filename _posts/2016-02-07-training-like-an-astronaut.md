@@ -4,6 +4,7 @@ title:  Training Like An Astronaut
 date: 2016-02-07 21:01:00
 description: Preparing for life should be taken seriously.
 audio: training-like-an-astronaut
+category: personal
 ---
 
 In 2012 the astronauts aboard the International Space Station were awakened in the middle of the night by a fire alarm. All six of the crew members on board quickly, but not rushed, made their way to Russian part of the space station to assess the situation and fight the fire. Thankfully this was an instrumentation failure and there was no fire aboard and all were able to go back to sleep.

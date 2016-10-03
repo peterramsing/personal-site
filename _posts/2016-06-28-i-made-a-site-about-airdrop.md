@@ -8,6 +8,7 @@ keywords: AirDrop, iPhone, Security
 social_title: I Made A Site About AirDrop
 social_image: img/ymwttoad-logo.png
 social_description: There comes a time when you see someone who has their AirDrop permissions too open. Now you have something to send them!
+category: development
 
 ---
 

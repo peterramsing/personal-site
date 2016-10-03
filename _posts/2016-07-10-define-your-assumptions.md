@@ -8,6 +8,8 @@ description: what are the assumptions disguised as fact?
 social_description: It's easy to have assumptions hide in the facts. What facts have you held as fact that were in fact assumptions?
 keywords: web development, development, project management, assumptions, legacy code
 audio: define-your-assumptions
+category: development
+
 ---
 <a href="https://twitter.com/share" class="twitter-share-button" data-text="What assumptions are you treating as facts?" data-url="http://peter.coffee/define-your-assumptions" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

@@ -7,7 +7,7 @@ description: Setting up a maintenance site for multi-domain routing.
 keywords: express, pug, expressjs, site, server
 social_title: Creating a Maintenance Site with Express and Pug
 social_description: A simple way to set up multiple domain routing to separate maintenance/outage pages using Express and Pug (formerly Jade).
-
+category: development
 ---
 
 If you've ever had to create a maintenance page for your website when you need to do some server work or some larger database operation that will need your system offline, you've probably suffered a headache about how to do it well. How about if you have multiple sites that you have to take down and you want there to be a "we are down right now" but branded for each domain? This was the dilemma that I had to solve and I must say, I like what I came up with.

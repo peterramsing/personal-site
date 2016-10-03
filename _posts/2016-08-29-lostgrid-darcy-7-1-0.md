@@ -8,7 +8,7 @@ keywords: PostCSS, CSS, frontend, front-end, lostgrid, lost, grid, software-rele
 social_title: New LostGrid version 7.1.0
 social_image: img/lostgrid-darcy.png
 social_description: LostGrid's latest version of Darcy 7.1.0 comes with a new utility feature and refactored core using Airbnb's ESLint configuration
-
+category: development
 ---
 <a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ page.url | prepend: site.url }}" data-text="{{ page.description }}" data-via="LostGrid" data-related="peterramsing">Tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 

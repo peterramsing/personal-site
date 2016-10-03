@@ -11,6 +11,8 @@ social_description: Peter's take on five things that he's learned have helped hi
 social_image: img/posts/five-steps.jpg
 keywords: Web, Developer, Imposter Syndrome, Leadership
 audio: five-steps-to-becoming-a-better-developer
+category: development
+
 ---
 ### This post was turned into a [talk]({{ site.baseurl }}/devsigner2016).
 

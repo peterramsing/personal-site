@@ -3,6 +3,7 @@ layout: post
 title:  A Plan For Deploy
 date:   2015-12-28 16:40:16
 description: Deploying our new TrackIR Site.
+category: development
 ---
 
 Lately I've been thinking a lot about [decision fatigue](https://en.wikipedia.org/wiki/Decision_fatigue). So when this last week we got the thumbs up from the CEO and were ready to deploy our [new site](http://www.naturalpoint.com/trackir/), I wanted to make sure that the deploy went as smooth as possible and kept decision fatigue in mind.
