@@ -11,6 +11,8 @@ social_image: img/work/drop-in.jpg
 
 # Peter Ramsing, the&nbsp;Paid&nbsp;Version
 
+## *I'm currently not taking any projects until November.*
+
 <a href="{{ site.baseurl }}/my-work/">Want to see my work?</a>
 
 ## What I do:

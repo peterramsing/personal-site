@@ -20,6 +20,9 @@ As a maintainer of the largest grid framework for PostCSS, LostGrid, I also have
 ## Current Projects
 
 ### Contract Work
+_I'm currently not taking any new projects until November._
+
+* <a href="{{ site.baseurl }}/my-work/">Want to see my work?</a>
 * Recent Projects:
   * <a href="https://fidogroupe.github.io/drop-in-marketing-site/" rel="nofollow" target="_blank">(Pre-release) Drop In Site</a>
   * <a href="http://lostgrid.org/" rel="nofollow" target="_blank">LostGrid Site</a>
@@ -49,7 +52,7 @@ As a maintainer of the largest grid framework for PostCSS, LostGrid, I also have
 ### [SplitTip](http://splittip.com/)
   * A web app that allowed us Starbucks partners to split our pooled tips faster and with greater accuracy. Instead of taking an hour it only took fifteen minutes. #efficiencywin
   * PHP, MySQL
-  
+
 ### [Corvallis Indoor Park](https://corvallisindoorpark.org)
   * This was so much fun! My first large-scale project where I needed create an entire web app for a group of parents to be able to organize, sign up, schedule, and manage their group.
   * PHP, MySQL
