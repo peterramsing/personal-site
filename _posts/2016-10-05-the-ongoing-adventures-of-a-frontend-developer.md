@@ -28,7 +28,7 @@ I was asked to give a talk on "The Ongoing Adventures of a Frontend Developer" a
 
 ## Tools/Libraries/Frameworks Mentioned:
 * <a target="_blank" href="https://www.npmjs.com/">NPM (Node Package Manager</a> - npm is the package manager for JavaScript. Find, share, and reuse packages of code from hundreds of thousands of developers — and assemble them in powerful new ways.
-* <a target="_blank" href="https://facebook.github.io/react/">React from Facebook</a>
+* <a target="_blank" href="https://facebook.github.io/react/">React from Facebook</a> - A javascript library for building user interfaces
 * <a target="_blank" href="http://emberjs.com/">Ember</a> - A framework for creating **ambitious** web applications
 * <a target="_blank" href="https://angularjs.org/">Angular</a> - HTML enhanced for web apps!
 * <a target="_blank" href="https://github.com/broccolijs/broccoli">Broccoli</a> - A fast, reliable asset pipeline, supporting constant-time rebuilds and compact build definitions.
