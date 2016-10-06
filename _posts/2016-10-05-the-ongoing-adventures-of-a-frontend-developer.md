@@ -24,7 +24,7 @@ I was asked to give a talk on "The Ongoing Adventures of a Frontend Developer" a
 * <a target="_blank" href="http://blog.npmjs.org/post/141577284765/kik-left-pad-and-npm">Left Pad Chaos </a> - kik, left-pad, and npm
 * <a target="_blank" href="/five-steps-to-becoming-a-better-developer">Five Steps to Becoming a Better Developer</a> - There's no such thing as a unicorn.
 * <a target="_blank" href="/devsigner2016">Five Steps to Becoming a Better Devsigner</a> - Devsigner Talk
-
+* <a target="_blank" href="https://youtu.be/6FN7QU1ZxqA?list=PLHYmM0rBloyTelftsYtk93VgunoYmNkc5">Video where I install dependencies</a> - As discussed in how dependencies are added to a project.
 
 ## Tools/Libraries/Frameworks Mentioned:
 * <a target="_blank" href="https://www.npmjs.com/">NPM (Node Package Manager</a> - npm is the package manager for JavaScript. Find, share, and reuse packages of code from hundreds of thousands of developers — and assemble them in powerful new ways.
