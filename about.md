@@ -61,9 +61,11 @@ _I'm currently not taking any new projects until November._
 ## As Seen
 * At Devsigner 2016 talk on [Five Steps to Becoming a Better Devsigner](/devsigner2016)
 * Various technical and general talks at the [Benton County Career Convention](http://www.bchscc.org/)
+* [Business Web Practices Speaker Series](https://bruceelgort.com/fall-2016-business-web-practices-speaker-series/) - The Ongoing Adventures of a Frontend Developer
+  * [Links and Notes](/the-ongoing-adventures-of-a-frontend-developer)
+
 
 ## Upcoming Talks
-* [Business Web Practices Speaker Series](https://bruceelgort.com/fall-2016-business-web-practices-speaker-series/) - October 5th
 * Startup Tacoma - November 19th
 
 ## Resources
