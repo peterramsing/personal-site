@@ -15,7 +15,7 @@ I was asked to give a talk on "The Ongoing Adventures of a Frontend Developer" a
 
 <!--more-->
 
-## [Video Coming Soon]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yzGFjVa4u_o" frameborder="0" allowfullscreen></iframe>
 
 ## Links mentioned in the talk:
 * <a target="_blank" href="http://exercism.io/">Excercism</a> - Level up your programming skills
