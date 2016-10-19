@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Training Like An Astronaut
+permalink: training-like-an-astronaut
 date: 2016-02-07 21:01:00
 description: Preparing for life should be taken seriously.
 audio: training-like-an-astronaut
