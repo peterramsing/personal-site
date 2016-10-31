@@ -20,7 +20,7 @@ As a maintainer of the largest grid framework for PostCSS, LostGrid, I also have
 ## Current Projects
 
 ### Contract Work
-_I'm currently not taking any new projects until November._
+**_I'm currently not taking any new projects until late November._**
 
 * <a href="{{ site.baseurl }}/my-work/">Want to see my work?</a>
 * Recent Projects:
