@@ -12,7 +12,7 @@ category: personal
 excerpt_separator: <!--more-->
 ---
 
-My mom did a lot of things right; I am so blessed by her. I was reading a book this evening, [The Essential Wooden](http://amzn.to/2f83ZGH), and something hit me and hit me hard. ...and something I realize my mom, whether she knew it or not, was doing very, very right. She got me books I wasn't ready to read.
+My mom did a lot of things right; I am so blessed by her. I was reading a book this evening, [The Essential Wooden](http://amzn.to/2f83ZGH), and something hit me and hit me hard. ...and something I realize my mom, whether she knew it or not, was doing very, very right: She got me books I wasn't ready to read.
 
 > Have a few books on your bookshelf you're not ready for. One day, maybe not tomorrow, you'll be ready for them...and when you are you'll be glad they are there.
 
