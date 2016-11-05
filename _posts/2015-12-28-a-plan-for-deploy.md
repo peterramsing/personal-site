@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  A Plan For Deploy
+permalink: a-plan-for-deploy
 date:   2015-12-28 16:40:16
 description: Deploying our new TrackIR Site.
 category: development

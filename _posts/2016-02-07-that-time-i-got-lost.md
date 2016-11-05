@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  That Time I Got Lost
+permalink: that-time-i-got-lost
 date: 2016-02-04 21:01:00
 description: My journey from contributor to maintainer.
 category: development

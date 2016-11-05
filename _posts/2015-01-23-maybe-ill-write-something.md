@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Maybe I'll Write Something
+permalink: maybe-ill-write-something
 date: 2015-01-23 21:01:00
 description: ...just maybe...
 audio: maybe-ill-write-something
