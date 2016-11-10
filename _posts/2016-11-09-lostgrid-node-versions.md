@@ -13,7 +13,7 @@ excerpt_separator: <!--more-->
 
 ## LostGrid is going to drop support for Node v0.10 and v0.12
 
-Okay okay...not just yet. But I'm releasing a patch today that will start to put warnings out there about the drop of Node support in Version 8. Version 8 isn't quite ready yet and I'm going hold off releasing it until December when Node support for v0.12 ends.
+Okay okay...not just yet. But I'm releasing a [patch today](https://github.com/peterramsing/lost/releases/tag/v7.1.1) that will start to put warnings out there about the drop of Node support in Version 8. Version 8 isn't quite ready yet and I'm going hold off releasing it until December when Node support for v0.12 ends.
 
 Moving forward, LostGrid is going to support Node versions according to the Node LTS docs. [See Docs here](https://github.com/nodejs/LTS#lts-schedule)
 
