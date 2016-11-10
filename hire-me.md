@@ -13,7 +13,7 @@ social_image: /img/work/drop-in.jpg
 
 ## *I'm currently not taking any projects until November.*
 
-<a href="{{ site.baseurl }}/my-work/">Want to see my work?</a>
+<a href="{{ site.baseurl }}/my-work">Want to see my work?</a>
 
 ## What I do:
 I build web sites and applications for small to medium size businesses and startups working with teams wherever they are. Whether it's inception or it's a legacy codebase I identify efficient solutions to complex business problems and deliver value quickly back to the organization.
