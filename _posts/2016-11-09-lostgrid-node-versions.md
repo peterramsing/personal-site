@@ -33,6 +33,10 @@ Probably don't update to v8. ...or, when you hear the tests aren't passing anymo
 ### Great! ...can I get some LostGrid swag, too?
 I'm actually making some LostGrid shirts soon...so yes! You can get some swag! Be looking for them soon! (and stickers too!)
 
+**Update:** There are now LostGrid shirts to help support the project! My wife's [Tee company](https://1988aurelia.com) is so gracious to help support LostGrid by making the shirt available. (Thanks Babe! 💋)
+
+[Get your shirt!](https://1988aurelia.com/products/lostgrid-tee)
+
 ### I to share my thoughts!
 Please do! Feel free to communicate through the ways below: (and thanks!)
 
