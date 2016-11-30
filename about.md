@@ -24,7 +24,7 @@ As a maintainer of the largest grid framework for PostCSS, LostGrid, I also have
 
 * <a href="{{ site.baseurl }}/my-work/">Want to see my work?</a>
 * Recent Projects:
-  * <a href="https://fidogroupe.github.io/drop-in-marketing-site/" rel="nofollow" target="_blank">(Pre-release) Drop In Site</a>
+  * <a href="https://peterramsing.github.io/drop-in-marketing-site/" rel="nofollow" target="_blank">(Pre-release) Drop In Site</a>
   * <a href="http://lostgrid.org/" rel="nofollow" target="_blank">LostGrid Site</a>
 
 ### LostGrid
