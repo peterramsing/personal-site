@@ -19,11 +19,14 @@ As a maintainer of the largest grid framework for PostCSS, LostGrid, I also have
 
 ## Current Projects
 
-### Contract Work
-**_I'm currently not taking any new projects until December._**
+### [Veelo, Inc](http://veeloinc.com/)
+* Software Developer
+* <a href="http://veeloinc.com/blog/new-veelo-sales-performance-platform-launches/" rel="nofollow" target="_blank">Veelo Sales Platform</a>
 
-* <a href="{{ site.baseurl }}/my-work">Want to see my work?</a>
-* Recent Projects:
+### Contract Work
+**_I'm currently not taking any new projects until Q2 2017._**
+* <a href="{{ site.baseurl }}/my-work">Want to see some of my work?</a>
+* Recent Projects I've recently worked on:
   * <a href="http://peter.coffee/drop-in-marketing-site/" rel="nofollow" target="_blank">(Pre-release) Drop In Site</a>
   * <a href="http://lostgrid.org/" rel="nofollow" target="_blank">LostGrid Site</a>
 
