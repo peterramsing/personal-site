@@ -22,7 +22,7 @@ As a maintainer of the largest grid framework for PostCSS, LostGrid, I also have
 ### Contract Work
 **_I'm currently not taking any new projects until December._**
 
-* <a href="{{ site.baseurl }}/my-work/">Want to see my work?</a>
+* <a href="{{ site.baseurl }}/my-work">Want to see my work?</a>
 * Recent Projects:
   * <a href="https://peterramsing.github.io/drop-in-marketing-site/" rel="nofollow" target="_blank">(Pre-release) Drop In Site</a>
   * <a href="http://lostgrid.org/" rel="nofollow" target="_blank">LostGrid Site</a>
