@@ -19,6 +19,7 @@ excerpt_separator: <!--more-->
 ### Breaking Changes
 * Waffle grids now have their last element floated to the left. This can be changed to make the last element float to the right. You can revert to having the last element float to the right by adding "float-right" to the end of line. `a { lost-waffle: 2/5 3 0 no-flex float-right; }`
 * The Offset was initially done backwards (negative went right and positive went left). This is now more intuitive. You can get your existing project working with version 8 by simply making your previous negative fractions positive and your positive fractions negative. (e.g. `lost-offset: 1/3; => lost-offset: -1/3;`)
+* LostGrid no longer supports 0.10 and 0.12 versions of Node.
 
 ### New Features
 * You can now use `vw` and `vh` as units for grid calculations instead of the default `%`. [Read the Docs](http://lostgrid.org/docs.html#rounder-settings)
