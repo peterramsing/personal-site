@@ -30,7 +30,9 @@ excerpt_separator: <!--more-->
 ![LostGrid Version 8]({{ site.baseurl }}/img/posts/lostgrid-general.jpg "LostGrid Version 8")
 
 ## Changelog
+
 ## [v8.0.0] - 2016-12-31
+
 ### Fixed
 - [#339](https://github.com/peterramsing/lost/issues/233) Fixes issue where `lost-align` was targeting the incorrect element when using flexbox.
 - [#329](https://github.com/peterramsing/lost/issues/329) Issue where flex-basis needed to be set for IE 10/11
