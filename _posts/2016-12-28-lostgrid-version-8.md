@@ -22,7 +22,7 @@ excerpt_separator: <!--more-->
 * LostGrid no longer supports 0.10 and 0.12 versions of Node.
 
 ### New Features
-* You can now use `vw` and `vh` as units for grid calculations instead of the default `%`. [Read the Docs](http://lostgrid.org/docs.html#rounder-settings)
+* You can now use `vw` and `vh` as units for grid calculations instead of the default `%`. [Read the Docs](http://lostgrid.org/docs.html#lost-unit)
 * A new "rounder" feature was added allowing you to adjust the rounder multiplier. [(See this post to learn more)]({{ site.baseurl }}/lostgrid-version-8-beta-1)
 
 <!--more-->
