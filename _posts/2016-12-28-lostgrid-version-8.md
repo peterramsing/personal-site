@@ -57,3 +57,9 @@ This reverses the current api from moving left to right based on negative fracti
 - Some [new global logic](https://github.com/peterramsing/lost/commit/9699bfc7e092ff6e2df00fc7861ac5a50c636c8b) for things. I'm a huge fan of breaking things out so they can be reused...LostGrid is in dire need of some breaking out within the codebase. This starts this (and it's been epic already and is starting to simplify things and improve readability.
 
 [Diff with previous *major* version 7.1.1](https://github.com/peterramsing/lost/compare/v7.1.1...v8.0.0)
+
+As always, if there are issues or comments please don't hesitate to get in touch.
+
+- [@LostGrid](https://twitter.com/lostgrid) on Twitter
+- [Gitter](https://gitter.im/peterramsing/lost)
+- [Submit and issue](https://github.com/peterramsing/lost/issues/new).
