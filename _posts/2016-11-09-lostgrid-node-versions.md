@@ -37,7 +37,7 @@ I'm actually making some LostGrid shirts soon...so yes! You can get some swag! B
 
 [Get your shirt!](https://1988aurelia.com/products/lostgrid-tee)
 
-### I to share my thoughts!
+### I want to share my thoughts!
 Please do! Feel free to communicate through the ways below: (and thanks!)
 
 - [@LostGrid](https://twitter.com/lostgrid) on Twitter
