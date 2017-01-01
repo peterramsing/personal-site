@@ -11,7 +11,7 @@ social_description:
 excerpt_separator: <!--more-->
 ---
 
-## This version of LostGrid will be available on the 31st of December 2016.
+## [Version 8 is now available](https://www.npmjs.com/package/lost)
 
 ## What Changed?
 *See full changelog below for all the changes.*
