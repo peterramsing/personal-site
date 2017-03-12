@@ -20,7 +20,7 @@ Today I needed to see the diff between our current version or [normalize.css](ht
 
 ## So how?
 
-https://github.com/`user`/`repo`/`beginning-tag`...`ending-tag`
+https://github.com/`<user>`/`<repo>`/`compare`/`<beginning-tag>`...`<ending-tag>`
 
 The key is that "..." and knowing the tags. I typically start at the release page and go from there. The GIF below explains it. 👍🏻
 
