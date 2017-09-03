@@ -48,3 +48,28 @@ Within each section I've put things in a "sort of" order of what I feel are "if 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=peterramsin07-20&marketplace=amazon&region=US&placement=1419715844&asins=1419715844&linkId=3564a655e0e18c9e366ddd6d6222c8f4&show_border=true&link_opens_in_new_window=true"></iframe>
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=peterramsin07-20&marketplace=amazon&region=US&placement=031224665X&asins=031224665X&linkId=d766fabf8b4ddface289f685a9309d7e&show_border=true&link_opens_in_new_window=true"></iframe>
+
+
+---
+
+## Podcasts I listen to:
+*Lists are in no particular order*
+
+### Business & Business News:
+* [SaaStr](https://itunes.apple.com/us/podcast/the-official-saastr-podcast-saas-founders-investors/id1089973241?mt=2)
+* [Corner Office from MarketPlace](https://www.marketplace.org/topics/business/corner-office)
+* [Make Me Smart with Kai and Molly](https://www.marketplace.org/topics/make-me-smart)
+* [Marketplace with Kai Ryssdal](https://itunes.apple.com/podcast/marketplace-with-kai-ryssdal/id201853034?mt=2)
+* [Marketplace Weekend with Lizzie O'Leary](https://itunes.apple.com/podcast/marketplace-weekend-with-lizzie-oleary/id201291272?mt=2)
+* [Exchanges at Goldman Sachs](https://itunes.apple.com/us/podcast/exchanges-at-goldman-sachs/id948913991?mt=2)
+* [How I Built This with Guy Raz](http://www.npr.org/podcasts/510313/how-i-built-this)
+* [I Hate My Boss (bad name...I don't actually hate my boss)](http://wondery.com/wondery/shows/ihatemyboss/)
+
+### Learning:
+* [GTD Podcast](http://gettingthingsdone.com/podcasts/)
+* [Planet Money](http://www.npr.org/podcasts/510289/planet-money)
+* [Causality](https://itunes.apple.com/us/podcast/causality/id1046978749?mt=2)
+* [Radiolab](http://www.radiolab.org)
+
+### Tech:
+* [ATP](https://itunes.apple.com/us/podcast/accidental-tech-podcast/id617416468?mt=2)
