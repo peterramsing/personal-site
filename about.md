@@ -7,11 +7,9 @@ social_description: It's Peter, your fun loving, coffee drinking web developer.
 keywords: Web, Developer
 ---
 
-I’m a web developer with 3 years experience successfully delivering results for small to medium sized companies. Skilled at developing complete web applications from scratch and integrating small apps with larger legacy systems, I deliver quality and maintainable code quickly and consistently.
+A determined software developer, with a focus on web applications, marketing site development, business strategy, and software team leadership.
 
-I have effectively taken large legacy table based sites and migrated them to responsive design using modern tooling while working with product owners to stay under-budget and on-time working with extremely tight deadlines.
-
-As a maintainer of the largest grid framework for PostCSS, LostGrid, I also have had the privilege of working with and learning from amazing developers from all over the globe every single day. I am a strong team player and am experienced in-office and remote.
+Peter offers a unique skillset with experience maintaining the largest CSS grid for PostCSS, developing large-scale web applications, and jump-starting software teams to perform beyond expectations.
 
 [**Download Resume**](/static/peter-ramsing-resume.pdf)
 
