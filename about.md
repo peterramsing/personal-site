@@ -22,7 +22,7 @@ Peter offers a unique skillset with experience maintaining the largest CSS grid 
 * <a href="http://veeloinc.com/blog/new-veelo-sales-performance-platform-launches/" rel="nofollow" target="_blank">Veelo Sales Platform</a>
 
 ### Contract Work
-**_I'm currently not taking any new projects until Q2 2017._**
+**_I'm currently not taking any new projects until Q2 2018._**
 * <a href="{{ site.baseurl }}/my-work">Want to see some of my work?</a>
 * Recent Projects I've recently worked on:
   * <a href="http://peter.coffee/drop-in-marketing-site/" rel="nofollow" target="_blank">(Pre-release) Drop In Site</a>
