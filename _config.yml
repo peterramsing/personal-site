@@ -22,3 +22,6 @@ gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-redirect-from
+
+# Working schedule
+taking_contracts: 'Feburary 2018'

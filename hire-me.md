@@ -11,7 +11,7 @@ social_image: /img/work/drop-in.jpg
 
 # Peter Ramsing, the&nbsp;Paid&nbsp;Version
 
-## *I'm currently not taking any projects until November.*
+## *I'm currently not taking any projects until {{ site.taking_contracts }}.*
 
 <a href="{{ site.baseurl }}/my-work">Want to see my work?</a>
 
