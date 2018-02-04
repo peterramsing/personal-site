@@ -1,3 +1,2 @@
-Sitemap: http://peter.coffee/sitemap.xml
+Sitemap: https://peter.coffee/sitemap.xml
 user-agent: *
-Disallow: /drop-in-marketing-site/
