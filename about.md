@@ -25,7 +25,7 @@ Peter offers a unique skillset with experience maintaining the largest CSS grid 
 **_I'm currently not taking any new projects until  {{ site.taking_contracts }}._**
 * <a href="{{ site.baseurl }}/my-work">Want to see some of my work?</a>
 * Recent Projects I've recently worked on:
-  * <a href="http://peter.coffee/drop-in-marketing-site/" rel="nofollow" target="_blank">(Pre-release) Drop In Site</a>
+  * <a href="https://peterramsing.github.io/drop-in-marketing-site/" rel="nofollow" target="_blank">(Pre-release) Drop In Site</a>
   * <a href="http://lostgrid.org/" rel="nofollow" target="_blank">LostGrid Site</a>
 
 ### LostGrid
