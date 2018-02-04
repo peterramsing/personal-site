@@ -37,20 +37,20 @@ Peter offers a unique skillset with experience maintaining the largest CSS grid 
 
 ## Past Projects
 
-### <a href="http://www.naturalpoint.com" rel="nofollow" target="_blank">NaturalPoint/OptiTrack/TrackIR</a>
+### <a href="https://www.naturalpoint.com" rel="nofollow" target="_blank">NaturalPoint/OptiTrack/TrackIR</a>
 * Frontend Website Technology Lead
 * Motion Capture Software and Hardware
-* Website: <a href="http://www.optitrack.com/" rel="nofollow" target="_blank">optitrack.com</a>
-  * <a href="http://www.optitrack.com/products/marker-configurator/?12=1&23=536&26=1&29=495&43=m4&62=475&91=1" rel="nofollow" target="_blank">Marker Configurator</a>
-  * <a href="http://www.optitrack.com/applications/" rel="nofollow" target="_blank">Application Pages Project</a>
-  * <a href="http://www.naturalpoint.com/trackir/" rel="nofollow" target="_blank">TrackIR Site Rebuild</a>
+* Website: <a href="https://www.optitrack.com/" rel="nofollow" target="_blank">optitrack.com</a>
+  * <a href="https://www.optitrack.com/products/motion-capture-markers/configurator/" rel="nofollow" target="_blank">Marker Configurator</a>
+  * <a href="https://www.optitrack.com/applications/" rel="nofollow" target="_blank">Application Pages Project</a>
+  * <a href="https://www.naturalpoint.com/trackir/" rel="nofollow" target="_blank">TrackIR Site Rebuild</a>
 
 ### [VisualPeople](https://www.visualpeople.com/)
   * Frontend and Backend developer for sites and applications
   * Contract and Small Business development
   * Website: [visualpeople.com](https://www.visualpeople.com/)
 
-### [SplitTip](http://splittip.com/)
+### SplitTip
   * A web app that allowed us Starbucks partners to split our pooled tips faster and with greater accuracy. Instead of taking an hour it only took fifteen minutes. #efficiencywin
   * PHP, MySQL
 
