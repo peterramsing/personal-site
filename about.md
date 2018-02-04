@@ -65,7 +65,7 @@ Peter offers a unique skillset with experience maintaining the largest CSS grid 
 * October 2016, [Business Web Practices Speaker Series](https://bruceelgort.com/fall-2016-business-web-practices-speaker-series/) - The Ongoing Adventures of a Frontend Developer
   * [Links and Notes](/the-ongoing-adventures-of-a-frontend-developer)
 * Devsigner 2016 talk on [Five Steps to Becoming a Better Devsigner](/devsigner2016)
-* Various technical and general talks at the Benton County Career Convention
+* Various technical and general talks at the [Benton County Career Convention](https://bentoncountyhscc.com)
 
 
 ## Resources
