@@ -24,4 +24,4 @@ The goal is to deliver working software quickly and regularly. I work with teams
 
 
 ## Investment:
-I am $100 an hour. What you get for those hours is high value and focused work. A small three or four page site with copy, design, and development is typically a several thousand dollar investment, and more complex apps can jump up from there.
+I am ${{ site.rate }} an hour. What you get for those hours is high value and focused work. A small three or four page site with copy, design, and development is typically a several thousand dollar investment, and more complex apps can jump up from there.
