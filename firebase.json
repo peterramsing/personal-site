@@ -12,6 +12,11 @@
         "source" : "/static/talks/five-steps-devsigner-2016/index.html",
         "destination" : "/devsigner2016",
         "type" : 301
+      },
+      {
+        "source" : "/lost",
+        "destination" : "http://lostgrid.org",
+        "type" : 301
       }
     ]
   }
