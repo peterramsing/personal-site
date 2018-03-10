@@ -84,7 +84,7 @@ html {
 }
 
 .top-area {
-  background-image: url('/img/header-bkground.jpg');
+  background-color: $theme-color;
   height: 300px;
 
   @include media-query($on-laptop) {
