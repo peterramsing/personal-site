@@ -58,7 +58,5 @@ I made a full reading list [here]({{ site.baseurl }}reading-list).
 
 > The best way to learn is to teach. - {someone}
 
-## The Slide Deck
-My style of slide deck is very minimal so they don't stand up very well by themselves without the context. But...if you want to see them they are <a target="_blank" href="/static/talks/five-steps-devsigner-2016">here</a>. *Sorry the italics are bit off...Keynote exported them like that.*
 
 ![Image of Presentation]({{ site.baseurl }}/img/devsigner-2016.jpg)

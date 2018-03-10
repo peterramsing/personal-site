@@ -6,6 +6,13 @@
       "**/.*",
       "**/node_modules/**"
     ],
-    "cleanUrls": true
+    "cleanUrls": true,
+    "redirects": [
+      {
+        "source" : "/static/talks/five-steps-devsigner-2016/index.html",
+        "destination" : "/devsigner2016",
+        "type" : 301
+      }
+    ]
   }
 }
