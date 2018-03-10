@@ -1,8 +1,12 @@
-.about-content {
-  img {
-    border-radius: 50%;
-  }
+.About--headshot {
+  width: 100%;
 
+  @include mobile-first-media-query($bp-small) {
+    width: 200px;
+  }
+}
+
+.about-content {
   h2 {
     margin-bottom: 10px;
   }

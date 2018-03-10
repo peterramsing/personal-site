@@ -7,6 +7,8 @@ social_description: It's Peter, your fun loving, coffee drinking web developer.
 keywords: Web, Developer
 ---
 
+<img src="/img/peter-ramsing-headshot.jpg" class="About--headshot">
+
 A determined software developer, with a focus on web applications, marketing site development, business strategy, and software team leadership.
 
 Peter offers a unique skillset with experience maintaining the largest CSS grid for PostCSS, developing large-scale web applications, and jump-starting software teams to perform beyond expectations.
