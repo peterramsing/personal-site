@@ -85,7 +85,6 @@ Peter offers a unique skillset with experience maintaining the largest CSS grid 
 	<a href="mailto:hi@peterramsing.com"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://github.com/peterramsing"><i class="fa fa-github-square"></i></a>
 	<a href="https://linkedin.com/in/peterramsing"><i class="fa fa-linkedin-square"></i></a>
-	<a href="http://instagram.com/peterramsing"><i class="fa fa-instagram"></i></a>
 	<a href="https://twitter.com/peterramsing"><i class="fa fa-twitter-square"></i></a>
 </span>
 
