@@ -19,9 +19,8 @@ Peter offers a unique skillset with experience maintaining the largest CSS grid 
 
 ## Current Projects
 
-### [Veelo, Inc](http://veeloinc.com/)
-* Software Developer
-* <a href="http://veeloinc.com/blog/new-veelo-sales-performance-platform-launches/" rel="nofollow" target="_blank">Veelo Sales Platform</a>
+### [XPO Logistics](https://www.xpo.com) - LTL Division
+* Frontend Application Developer
 
 ### Contract Work
 **_I'm currently not taking any new projects until  {{ site.taking_contracts }}._**
@@ -38,6 +37,10 @@ Peter offers a unique skillset with experience maintaining the largest CSS grid 
 ---
 
 ## Past Projects
+
+### [Veelo, Inc](http://veeloinc.com/)
+* Software Developer
+* <a href="http://veeloinc.com/blog/new-veelo-sales-performance-platform-launches/" rel="nofollow" target="_blank">Veelo Sales Platform</a>
 
 ### <a href="https://www.naturalpoint.com" rel="nofollow" target="_blank">NaturalPoint/OptiTrack/TrackIR</a>
 * Frontend Website Technology Lead
