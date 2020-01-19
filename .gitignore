@@ -1,3 +1,5 @@
 _site
 .sass-cache
+.firebase
+.jekyll-cache
 .DS_store
