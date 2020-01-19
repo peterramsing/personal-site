@@ -24,6 +24,11 @@ gems:
   - jekyll-sitemap
   - jekyll-redirect-from
 
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
 # Working schedule
 taking_contracts: 'January 2019'
 rate: '170'
