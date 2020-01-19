@@ -12,7 +12,7 @@ category: development
 excerpt_separator: <!--more-->
 ---
 
-<h2 id="what-changed"><a href="#what-changed">What changed?</a></h2>
+<h2 id="what-changed-in-7-1-0"><a href="#what-changed-in-7-1-0">What changed?</a></h2>
 [Changelog](https://github.com/peterramsing/lost/releases/tag/v7.1.0)
 
 

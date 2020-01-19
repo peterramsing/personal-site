@@ -15,7 +15,7 @@ category: development
 ## LostGrid, the Darcy Release
 Tonight I released the [latest version](https://github.com/peterramsing/lost/releases/tag/v7.0.1) of the [open source project](https://github.com/peterramsing/lost), LostGrid I maintain. The main focus of this release was to fix some bugs that caused some breaking changes, start a new version naming strategy, add a feature for `lost-row` and to also ensure that there was movement on the project.
 
-<h2 id="what-changed"><a href="#what-changed">What changed?</a></h2>
+<h2 id="what-changed-in-7-0-1"><a href="#what-changed-in-7-0-1">What changed?</a></h2>
 [Changelog](https://github.com/peterramsing/lost/releases/tag/v7.0.1)
 
 * [#306](https://github.com/peterramsing/lost/pull/306) [FEATURE] lost-row: none; was added to reset the element back to default settings.
