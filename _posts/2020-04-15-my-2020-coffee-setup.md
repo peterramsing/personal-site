@@ -16,6 +16,8 @@ A few years ago I <a href="/how-i-make-my-morning-coffee" target="_blank">wrote 
 
 <img style="width: 100%" src="/img/posts/2020-coffee-setup.jpeg" alt="Peter's at-home coffee setup">
 
+<!--more-->
+
 ## Brewed Coffee
 In the past I've always brewed coffee with either a pour-over or AreoPress. I loved it. When my wife and I found out we were expecting twins I decided that an automatic brewer would be a helpful addition to our coffee setup. I chose the <a href="https://amzn.to/3a5VeZW" target="_blank">Breville Precision Brewer</a> because of its versatility. I can do cold-brew, 12 cups on Thanksgiving, and a quick cup when I'm wanting a pick-me-up in the afternoon. It covers it all and it does it well. Additionally, I love Breville's product-line and as someone who's brand loyal to a fault it felt like a great option.
 

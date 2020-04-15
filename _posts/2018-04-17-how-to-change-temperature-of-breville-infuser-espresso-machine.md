@@ -23,9 +23,11 @@ I feel like I'd be doing a disservice if I talked about the heat of the water wi
 
 ## More
 
+<h3><a href="/my-2020-coffee-setup">2020 Coffee Setup</a></h3>
+<br/>
 <h3><a href="https://www.fivesenses.com.au/blog/brew-temperature-and-its-effects-on-espresso/
 " title="A great blog post about temperature and espresso" rel="nofollow" target="_blank">A great blog post about temperature and espresso</a></h3>
-
+<br/>
 <h3><a href="http://amzn.to/2DZ1YcB
 " title="A great book on making coffee" rel="nofollow" target="_blank">A great book on making coffee</a></h3>
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=peterramsin07-20&marketplace=amazon&region=US&placement=1419715844&asins=1419715844&linkId=eb405afe68a10d0588766b20745c74d6&show_border=true&link_opens_in_new_window=true"></iframe>
