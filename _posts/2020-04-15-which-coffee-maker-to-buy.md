@@ -60,7 +60,7 @@ Right now, your local coffee shop needs you. Buy from them. Many are setting up 
 ## The "ground" part of coffee
 No matter what you're making you need to increase the surface area for the water to be able to pull all those flavors, antioxidants, and of course C8H10N4O2 (otherwise known as caffeine). To do this you need to grind your coffee. Of course, the most affordable option is to buy local and have them grind the coffee for you but right now most coffee shops are not offering this. Some online shops are offering ground coffee to order but with staying at home your best option is to get a grinder.
 
-Also, your coffee is only as good as the grinder. You can't put poorly ground coffee in a fantastic machine and expect good results. I also highly recommend separating your grinder and machine (as there are grinders built into some machines). This is great for counter-space but it removes your ability to leap-frog your purchases as your budget changes over time. Also, most are tailored to the machine so you can't use the built-in grinder on an espresso machine to make, say, French Press coffee.
+Also, your coffee is only as good as the grinder. You can't put poorly ground coffee in a fantastic machine and expect good results. I also highly recommend separating your grinder and machine (as there are grinders built into some machines). Grinder and machine combos are great for counter-space but it removes your ability to leap-frog your purchases as your budget changes over time. Also, most are tailored to the machine so you can't use the built-in grinder on an espresso machine to make, say, French Press coffee.
 
 
 <div class="u-columns-up">
