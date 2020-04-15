@@ -216,13 +216,13 @@ table {
     }
   }
   h3 {
-    font-size: 19px;
+    font-size: 20px;
     @include media-query($on-laptop) {
-      font-size: 20px;
+      font-size: 24px;
     }
   }
   h4 {
-    font-size: 20px;
+    font-size: 16px;
     @include media-query($on-laptop) {
       font-size: 18px;
     }
@@ -278,5 +278,20 @@ audio {
   p {
     font-size: 0.75em;
     font-style: italic;
+  }
+}
+
+.u-columns-up {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+
+  div {
+    width: 100%;
+    padding: 0.5rem;
+  }
+
+  @include mobile-first-media-query($bp-small) {
+    flex-direction: row;
   }
 }
