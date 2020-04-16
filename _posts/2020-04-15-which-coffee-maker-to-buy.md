@@ -15,12 +15,12 @@ excerpt_separator: <!--more-->
 ## What do you want to make?
 I'm going to focus on just two very simple coffee styles: Lattes and Brewed Coffee. From experience, if we start to break out into all the variances (especially on the brewed coffee side) then we'll be here all week. So what coffee do you like?
 
-Now, if you just want to copy me, I wrote a post about what my coffee setup is these days. You can see that here: <a href="/my-2020-coffee-setup" target="_blank">My 2020 Coffee Setup</a>.
+Now, if you just want to copy me, I wrote a post about what my coffee setup is these days. You can see that here: <a href="{{ site.baseurl }}/my-2020-coffee-setup" target="_blank">My 2020 Coffee Setup</a>.
 
 ## What is your budget?
 You can start as affordable as $10 for a great coffee maker setup and I'll top out at around $800 for everything you need. We'll chat about everything in between.
 
-<img style="width: 100%" src="/img/posts/breville-infuser-bes840xl-on-counter-with-grinder.jpeg" alt="Breville Espresso Machine">
+<img style="width: 100%" src="{{ site.baseurl }}/img/posts/breville-infuser-bes840xl-on-counter-with-grinder.jpeg" alt="Breville Espresso Machine">
 
 # What goes into coffee?
 Let's first talk about what goes into a good cup of coffee. Water and ground beans. Let's start there.

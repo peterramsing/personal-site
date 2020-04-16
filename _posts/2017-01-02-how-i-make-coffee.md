@@ -13,10 +13,12 @@ excerpt_separator: <!--more-->
 
 I've had a lot of people ask me about how I make my coffee. Being a massive coffee nerd (I have more than 4 textbook style books on coffee and its chemistry) people seem to think that making my morning coffee could be equated to launching the Space Shuttle. I can assure that it is not.
 
-Here is a super simple step-by-step inspired by Marco Arment from [this podcast](http://engineered.network/pragmatic/episode-30-coffee). This is how I make my coffee using an [Aeropress](http://amzn.to/2j1XgUM) every morning.
+Here is a super simple step-by-step inspired by Marco Arment from [this podcast](http://engineered.network/pragmatic/episode-30-coffee). This is how I make my coffee using an [AeroPress](http://amzn.to/2j1XgUM) every morning.
 
 
 <!--more-->
+
+[Update] I've added some new tools to my setup: <a href="{{ site.baseurl }}/my-2020-coffee-setup">My 2020 Coffee Setup</a>.
 
 <a href="{{ site.baseurl }}/img/posts/coffee__setup.jpg"><img alt="Peter's Coffee Setup" src="{{ site.baseurl }}/img/posts/coffee__setup.jpg" class="u-full-width"></a>
 

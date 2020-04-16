@@ -23,7 +23,7 @@ I feel like I'd be doing a disservice if I talked about the heat of the water wi
 
 ## More
 
-<h3><a href="/my-2020-coffee-setup">2020 Coffee Setup</a></h3>
+<h3><a href="{{ site.baseurl }}/my-2020-coffee-setup">2020 Coffee Setup</a></h3>
 <br/>
 <h3><a href="https://www.fivesenses.com.au/blog/brew-temperature-and-its-effects-on-espresso/
 " title="A great blog post about temperature and espresso" rel="nofollow" target="_blank">A great blog post about temperature and espresso</a></h3>
