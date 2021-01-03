@@ -9,25 +9,25 @@ keywords: Web, Developer
 
 <img src="/img/peter-ramsing-headshot.jpg" class="About--headshot">
 
-A determined software developer, with a focus on web applications, marketing site development, business strategy, and software team leadership.
+A determined software manager, leader, and developer, with a focus on web applications, marketing site development, business strategy, and team leadership.
 
 Peter offers a unique skillset with experience maintaining the largest CSS grid for PostCSS, developing large-scale web applications, and jump-starting software teams to perform beyond expectations.
 
-[**Download Resume**](/static/peter-ramsing-resume.pdf)
+<!-- [**Download Resume**](/static/peter-ramsing-resume.pdf) -->
 
 ---
 
 ## Current Projects
 
 ### [XPO Logistics](https://www.xpo.com) - LTL Division
-* Frontend Application Developer
+* Manager of External LTL Tools and interal Angular UI frameworks
 
-### Contract Work
+<!-- ### Contract Work
 **_I'm currently not taking any new projects until  {{ site.taking_contracts }}._**
 * <a href="{{ site.baseurl }}/my-work">Want to see some of my work?</a>
 * Recent Projects I've recently worked on:
   * <a href="https://peterramsing.github.io/drop-in-marketing-site/" rel="nofollow" target="_blank">(Pre-release) Drop In Site</a>
-  * <a href="http://lostgrid.org/" rel="nofollow" target="_blank">LostGrid Site</a>
+  * <a href="http://lostgrid.org/" rel="nofollow" target="_blank">LostGrid Site</a> -->
 
 ### LostGrid
 * Core Maintainer
