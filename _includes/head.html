@@ -23,7 +23,7 @@
   <meta name="twitter:url" content="{{ page.url }}" />
   <meta property="twitter:image" content="{{ page.social_image }}" />
 
-  <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css?v={{ site.time | date:'%s' }}">
   <link rel="canonical" href="{{ site.my_url }}{{ page.url | replace:'index.html',''}}">
 
   <link rel="icon" type="image/png"  href="{{ site.baseurl }}/img/icon.png">
